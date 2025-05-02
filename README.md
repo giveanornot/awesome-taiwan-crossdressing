@@ -53,8 +53,8 @@
 
 ## 貢獻
 
-歡迎貢獻 issue / PR  
-或者來信 ananq@ananq.me
+歡迎提交 issue / PR 新增及修正資訊  
+亦可來信 ananq@ananq.me
 
 ## 授權條款
 本內容依 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.zh-hant) 釋出，使用時請標註來源。
