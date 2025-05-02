@@ -45,5 +45,10 @@
 - **[簡中] [RLE.wiki](https://rle.wiki/)**  
   給跨性別者與性別多元群體的 RLE 指南
 
+## 貢獻
+
+歡迎貢獻 issue / PR  
+或者來信 ananq@ananq.me
+
 ## 授權條款
 本內容依 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.zh-hant) 釋出，使用時請標註來源。
