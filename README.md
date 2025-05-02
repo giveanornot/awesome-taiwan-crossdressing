@@ -2,7 +2,7 @@
 
 在台灣的娚孩子可以取得的資源
 
-## 網路社群
+## 網路社群 / 討論板
 僅列出公開社群（無須經審核、邀請即可加入）
 
 - **[Dcard 偽娘板](https://www.dcard.tw/f/otokonoko)**  
@@ -11,10 +11,13 @@
 - **[巴哈姆特—偽娘向上委員會](https://forum.gamer.com.tw/B.php?bsn=60552)**  
   另一台灣公開偽娘討論區
 
+- **[民間女裝男子互助協會](https://www.facebook.com/p/%E6%B0%91%E9%96%93%E5%A5%B3%E8%A3%9D%E7%94%B7%E5%AD%90%E4%BA%92%E5%8A%A9%E5%8D%94%E6%9C%83-100069403000567/)**  
+  公開開放照片投稿 ~~其實就是偽娘的表特板~~
+
 ## 線下社群
 
 - **[中華民國偽娘交流協會](https://www.facebook.com/ROCTransgenderSociety/)**  
-  台灣正式組織，定期舉辦活動
+  正式註冊組織，定期舉辦活動
 
 - **[Trif 的勸世酒吧](https://www.instagram.com/triftransbar/)**  
   台灣第一間跨性別酒吧
