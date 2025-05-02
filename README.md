@@ -22,6 +22,12 @@
 - **[Trif 的勸世酒吧](https://www.instagram.com/triftransbar/)**  
   台灣第一間跨性別酒吧
 
+## 書籍
+- **技巧高超的偽娘扮裝術** （原文書名：オンナノコになりたい！）   
+  作者：三葉  
+  ![技巧高超的偽娘扮裝術-封面](https://github.com/user-attachments/assets/1ac5c3d0-2547-4eed-8146-798784188a00)  
+  *圖片來源：[博客來](https://www.books.com.tw/products/0010631732?loc=P_br_r0vq68ygz_D_2aabd0_B_3)*  
+
 ## 部落格
 
 - **[安安Q 的女裝日記](https://blog.ananq.me/)**  
