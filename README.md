@@ -2,6 +2,9 @@
 
 在台灣的娚孩子可以取得的資源
 
+![banner](https://github.com/user-attachments/assets/756cb679-f463-46c0-985f-d411e21c7d5f)
+*由 [ChatGPT](https://chatgpt.com/) 繪製*
+
 ## 網路社群 / 討論板
 僅列出公開社群（無須經審核、邀請即可加入）
 
