@@ -57,7 +57,7 @@
 - **[簡中] [RLE.wiki](https://rle.wiki/)**  
   給跨性別者與性別多元群體的 RLE 指南
 
-- **[翻譯][《性別不安聖經》](https://genderdysphoria.fyi/tw)**
+- **[翻譯][《性別不安聖經》](https://genderdysphoria.fyi/tw)**  
   一份譯自美國跨性別者的基礎知識入門書
 
 ## 貢獻
